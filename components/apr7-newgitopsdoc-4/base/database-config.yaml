@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: apr7-newgitopsdoc-4-database-config
+data:
+  VECTORDB_HOST: "apr7-newgitopsdoc-4-database"
+  VECTORDB_PORT: ""
